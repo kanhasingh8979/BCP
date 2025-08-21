@@ -3,6 +3,7 @@ element among A & B. '''
 a = int(input("Enter first number (A): "))
 b = int(input("Enter second number (B): ")) 
 if a > b:
-    print("Maximum element is:", a)
+    print("Maximum  is:", a)
 else:
-    print("Maximum element is:", b)
+
+    print("Maximum is:", b)
