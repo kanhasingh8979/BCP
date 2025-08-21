@@ -5,5 +5,6 @@ C = float(input("Enter third number: "))
 D = float(input("Enter fourth number: "))
 E = float(input("Enter fifth number: "))
 average = (A + B + C + D + E) / 5
-print("The average of the numbers is:", average)
+print("The average  is:", average)
+
 
