@@ -22,5 +22,6 @@ elif 65 <= percentage < 85:
 elif percentage >= 85:
     print("Grade: A+")  
 else:
-    print("Invalid percentage entered.")
+    print("Invalid percentage.")
+
     
